@@ -35,6 +35,7 @@ I'm a passionate developer who loves building full-stack web apps, designing cle
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KomalMaurya&layout=compact&theme=radical&hide_border=true" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KomalMaurya&theme=github_dark" />
 </p>
+
 ---
 
 ## 🌟 Featured Projects
