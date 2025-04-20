@@ -6,9 +6,9 @@
 ---
 
 ## 🚀 About Me
-I'm a passionate developer who loves building full-stack web apps, designing clean user interfaces, and working on real-world problems through code. I'm exploring the intersections of AI, development, and community building through open-source projects and hackathons.
+I'm a passionate developer who loves building full-stack web apps,softwares, designing clean user interfaces, and working on real-world problems through code. I'm exploring the intersections of AI, IoT, development, and community building through open-source projects and hackathons.
 
-- 🔭 Currently working on: Web Dev, Open Source, and Portfolio
+- 🔭 Currently working on: DSA and Open Source
 - 🌱 Learning more about: System Design and Advanced ML
 - 🏆 Achievements: GSSoC'24 Top 3% (Rank 888/27000+), Hackathon Winner
 - 💬 Ask me about: Frontend, Tailwind, React, Git, ML, Hackathons
@@ -19,7 +19,6 @@ I'm a passionate developer who loves building full-stack web apps, designing cle
 
 **Languages:** Java, Python, JavaScript, HTML, CSS  
 **Frameworks/Libraries:** React.js, Tailwind CSS, Express.js, Scikit-learn  
-**Tools:** Git, GitHub, Netlify, Vercel, Figma, VS Code  
 **CS Fundamentals:** DSA, DBMS, OOPs, OS, CN
 
 ---
