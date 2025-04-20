@@ -58,6 +58,8 @@ I'm a passionate developer who loves building full-stack web apps,softwares, des
 - 🐙 [GitHub](https://github.com/KomalMaurya)
 
 ---
+![Visitor Badge](https://komarev.com/ghpvc/?username=KomalMaurya&style=flat-square&color=blue)
+
 
 _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
 
