@@ -39,7 +39,7 @@ I'm a techie who loves building full-stack web apps, softwares, designing clean 
 
 ## 🌟 Featured Projects
 
-- 🎓 **Seekr.ai** – Perplexity-inspired AI assistant that delivers accurate, cited responses to user queries through a sleek interface
+- 🎓 **Seekr.ai** – Perplexity-inspired AI assistant that delivers accurate, cited responses to user queries through a sleek interface        
   [Live](https://seekr-ai.vercel.app/) | [GitHub](https://github.com/KomalMaurya/Seekr.ai)
 
 - 🎓 **EduGrant** – Scholarship Finder Platform using React, Node.js, ML  
@@ -56,7 +56,7 @@ I'm a techie who loves building full-stack web apps, softwares, designing clean 
 ## 📫 Let's Connect!
 
 - 📧 Email: [komal092btcseai23@igdtuw.ac.in](mailto:komal092btcseai23@igdtuw.ac.in)
-- 🌐 Portfolio: [https://komalmauryatech.vercel.app/]
+- 🌐 Portfolio: https://komalmauryatech.vercel.app/
 - 🔗 [LinkedIn](https://linkedin.com/in/komal-maurya-660ab3293/)
 - 🐙 [GitHub](https://github.com/KomalMaurya)
 
