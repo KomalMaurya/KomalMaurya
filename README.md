@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/KomalMaurya.png" width="150" style="border-radius: 50%;" />
+  <img src="https://github.com/KomalMaurya.png" width="150" style="border-radius: 50%; border: 3px solid #0077B5;" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 * **Elite Problem Solver:** **1892 LeetCode Rating** (Top 4.61%) with **600+ problems** solved.
 * **ICPC Prelims:** Ranked **2430 out of 13,000+** elite programmers globally.
 * **Open Source Leader:** Ranked **888/27,000+** in GSSoC '24 (**Top 3%**).
-* **Academic Performance:** Pursuing B.Tech in CSE-AI at **IGDTUW** with a **8.5 CGPA**.
+* **Academic Performance:** Pursuing B.Tech in CSE-AI at **IGDTUW** with an **8.5 CGPA**.
 
 ---
 
@@ -52,7 +52,7 @@
 ### 🌟 High-Impact Projects
 
 #### 🧪 AI & Data Science
-* **[ML-Capsule]:** Top contributor for a repo with **460+ stars**; built advanced R-based visualization modules.
+* **[ML-Capsule](https://github.com/KomalMaurya):** Top contributor for a repo with **460+ stars**; built advanced R-based visualization modules.
 * **Postpartum Depression Detection:** Achieved **92% accuracy** and improved model precision by **12%** through feature engineering.
 * **NLP Grammar Tool:** Real-time correction engine built with **Flask** and **LanguageTool** for instant writing improvement.
 
@@ -64,15 +64,15 @@
 ---
 
 ### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=KomalMaurya&theme=dark&hide_border=false&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=KomalMaurya&theme=dark&hide_border=false" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KomalMaurya&theme=dark&hide_border=false&layout=compact" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=KomalMaurya&theme=dark&no-frame=false&margin-w=4" width="48%" />
-</p>
+| <img src="https://github-readme-stats.shion.dev/api?username=KomalMaurya&theme=dark&hide_border=false&count_private=true" height="195px"/> | <img src="https://streak-stats.demolab.com/?user=KomalMaurya&theme=dark&hide_border=false" height="195px"/> |
+| :---: | :---: |
+| **Overall Statistics** | **Contribution Streak** |
+
+| <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KomalMaurya&theme=dark&hide_border=false&layout=compact" height="195px"/> | <img src="https://github-profile-trophy.vercel.app/?username=KomalMaurya&theme=dark&no-frame=false&margin-w=4" height="195px"/> |
+| :---: | :---: |
+| **Top Languages** | **Achievements & Trophies** |
+
 ---
 
 ### ⚡ Beyond the Code
