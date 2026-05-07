@@ -52,8 +52,8 @@
 ### 🌟 High-Impact Projects
 
 #### 🧪 AI & Data Science
-* **[ML-Capsule](https://github.com/KomalMaurya):** Top contributor for a repo with **460+ stars**; built advanced R-based visualization modules.
-* **Postpartum Depression Detection:** Achieved **92% accuracy** [cite: 45] [cite_start]and improved model precision by **12%** through feature engineering.
+* **[ML-Capsule]:** Top contributor for a repo with **460+ stars**; built advanced R-based visualization modules.
+* **Postpartum Depression Detection:** Achieved **92% accuracy** and improved model precision by **12%** through feature engineering.
 * **NLP Grammar Tool:** Real-time correction engine built with **Flask** and **LanguageTool** for instant writing improvement.
 
 #### 🏗️ Systems & Scalability
