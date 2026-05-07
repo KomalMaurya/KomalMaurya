@@ -71,9 +71,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=KomalMaurya&theme=dark&hide_border=false&layout=compact" width="48%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=KomalMaurya&theme=radical&no-frame=false&no-bg=true&margin-w=4" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=KomalMaurya&theme=dark&no-frame=false&margin-w=4" width="48%" />
 </p>
-
 ---
 
 ### ⚡ Beyond the Code
