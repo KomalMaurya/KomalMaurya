@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0099ff&height=200&section=header&text=Komal%20Maurya&fontSize=80&animation=fadeIn" />
+  <img src="https://github.com/KomalMaurya.png" width="150" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
