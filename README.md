@@ -80,9 +80,9 @@
 * Collaborated with **100+ global contributors** during **GSSoC**.
 * Successfully merged **11 pull requests** while improving UI/UX across 10+ repositories.
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://visitcount.itsvg.in">
