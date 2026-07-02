@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Software Engineer | Competitive Programmer | AI Innovator</strong>
+  <strong>Competitive Programmer | Web Developement </strong>
 </p>
 
 <p align="center">
