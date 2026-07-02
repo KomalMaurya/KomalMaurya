@@ -15,7 +15,7 @@
 ---
 
 ### 🏆 Engineering Excellence
-* **Elite Problem Solver:** **1896 LeetCode Rating** (Top 4.61%) with **900+ problems** solved.
+* **Problem Solver:** **1896 LeetCode Rating** (Top 4.61%) with **900+ problems** solved.
 * **IICPC Prelims:** Ranked **2430 out of 13,000+** elite programmers globally.
 * **Open Source Leader:** Ranked **888/27,000+** in GSSoC '24 (**Top 3%**).
 * **Academic Performance:** Pursuing B.Tech in CSE-AI at **IGDTUW** with an **8.5 CGPA**.
